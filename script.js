@@ -257,7 +257,7 @@
 
 
     
-q:25
+// q:25
 
 // q=25
 // let n=+prompt("enter number");
@@ -282,10 +282,64 @@ q:25
 //     for(let i=1; i<=n; i++){
 //         n+=i;
 //     }
-//       return n 
-      
-      
+//       return n; 
+//       }
+// rtk()
+
+
+
+// q=;28 factorial
+// let n=+prompt("enter number");
+//  function factorial(n){
+//     let ans=1;
+//     if (n===0)
+//         return 1;
+
+//     for ( let i=2; i<=n; i++)
+//         ans=ans*i;
+// return ans;
+//  }
+//  console.log(factorial(n))
+
+// q:29
+
+// const arr=[2,4,6,7,8,0,8,77,66,544,56,67,78,95,97]
+// const onum=arr.filter((n)=>n%2===1);
+// {
+//     console.log(onum)
+// }
+
+// const eum=arr.filter((n)=>n %2 ===0);
+// {
+//     console.log(eum)
+// }
+// pending
+
+
+
+// q:30
+
+// const x =+prompt ("number")
+// let add = 0;
+// for(i=1; i<=x; i++){
+//     if(x%i==0){
+//         console.log(i)
+//         add=add+i;
+    
+//     }
 
 // }
-// rtk()
+// console.log(add)
+
+// let a=0;
+// const arr=[2,4,6,7,9]
+// for(let i=0;i<=arr.length-1;i++){
+//     if(arr[i]%2==0){
+// a=a+arr[i];
+//     }
+//     else{
+//         console.log(arr[i])
+//     }
+// }
+// console.log(a)
 
